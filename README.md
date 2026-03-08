@@ -41,19 +41,6 @@ XOR-Perceptron/
 | Tek Katmanlı Perceptron | 50%      | Lineer karar sınırı XOR'ü çözemedi                       |
 | Çok Katmanlı Perceptron | 100%     | Non-lineer karar sınırıyla tüm noktaları doğru sınıfladı |
 
-## 📈 Grafikler
-
-### Tek Katmanlı Perceptron
-
-- Noktalar: Mavi → 0, Kırmızı → 1
-- × → hatalı tahminler
-- Karar sınırı → lineer çizgi
-
-### Çok Katmanlı Perceptron
-
-- Noktalar: Mavi → 0, Kırmızı → 1
-- Karar sınırı → non-lineer, XOR noktalarını doğru ayırıyor
-
 ## 📝 Açıklama
 
 - XOR problemi, tek katmanlı perceptronların lineer yetersizliğini göstermek için klasik bir örnektir.
